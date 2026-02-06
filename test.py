@@ -1,0 +1,1 @@
+print("Learning becomes easy when you start enjoying it ")
